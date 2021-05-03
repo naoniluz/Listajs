@@ -137,6 +137,7 @@
 	  const link = document.createElement('a');
 	  link.className = 'delete-item';
 	  link.innerHTML = '<i class="fa fa-remove"></i>';
+	
 	  tdIcone.appendChild(link);
 	
 	  trow.appendChild(tdNome);
